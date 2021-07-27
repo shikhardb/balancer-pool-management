@@ -28,7 +28,7 @@ export const bsctestnet = {
         "vault": "0x0",
 
         //multicall.sol A general usage library included on  balancer-core-v2	
-        "multicall": "0x39F37b34e4Eb5A2Ca32Fa1d806B13e6b76e4eeAB",
+        "multicall": "0xae11C5B5f29A6a25e955F0CB8ddCc416f522AF5C",
     },
     "connectors": {
         "injected": {
